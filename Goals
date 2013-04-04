@@ -1,0 +1,3 @@
+1. Make two arrays: one array will be an array of boolean, another one will be an array of integer. The first one will show dead and alive cells, the second one will show how many cells around each square;
+2. Make the navigation. 4 to move left, 6 to move right, 8 to move up, 2 to move down, 5 to place/remove cell, 0 to begin;
+3. Make the main algorythm.
