@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="The Game of Life" MainFile="The Game of Life.pas" OutputFileName="The Game of Life.exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="The Game of Life.pas" Path="The Game of Life.pas" />
+    <Item Type="SourceFile" Name="control.pas" Path="control.pas" />
+    <Item Type="SourceFile" Name="ioconsole.pas" Path="ioconsole.pas" />
+    <Item Type="SourceFile" Name="types.pas" Path="types.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+  </Items>
+</Project>
