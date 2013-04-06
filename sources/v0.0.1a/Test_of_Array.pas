@@ -8,8 +8,8 @@ Var
 Procedure input (var f : matrix);
   var i, j : integer;
   begin
-    for i := 1 to 3 do
-      for j := 1 to 3 do readln (f[i][j]);
+    for i := 3 downto 1 do
+      for j := 1 to 3 do readln (f[j][i]);
   end;
 Procedure output (f : matrix);
   var i, j : integer;
