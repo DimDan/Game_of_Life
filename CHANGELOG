@@ -1,8 +1,16 @@
+v0.1.1a - Added: ---
+          Changes:
+            -the overall look of game field is changed a little;
+            -refactoring of code: new module (for cursor movement) and a lot of new comments;
+          Known bugs: ---
+            
+
 v0.1.0a - And the first real version is now published!
           Added:
             -cellular field;
             -cursor movement;
             -creating and destruction of cells;
+          Changes: ---
           Known bugs: ---
 
 v0.0.1a - Our work has started. A simple program, which was made with use of types and procedures. The overall algorythm will be made in this way.
