@@ -10,6 +10,7 @@ v0.1.0a - And the first real version is now published!
             -cellular field;
             -cursor movement;
             -creating and destruction of cells;
+            -console output (ANSII graphics);
           Changes: ---
           Known bugs: ---
 
